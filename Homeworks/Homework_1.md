@@ -52,9 +52,8 @@
 Спеціальні символи можна [взяти тут](https://symbl.cc/en/html-entities/).
 
 ---
-<p style="text-align: center">
-    У MyStat потрібно завантажити код сторінок та скриншоти їх вигляду у браузері.
-</p>
+
+У MyStat потрібно завантажити код сторінок та скриншоти їх вигляду у браузері або посилання на проєкт у [CodePen](https://codepen.io/).
 
 ---
 [string-badge]:https://img.shields.io/badge/string-green?style=flat
