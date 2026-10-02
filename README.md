@@ -14,3 +14,11 @@
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Форматування тексту за допомогою HTML та CSS](/Homeworks/Homework_1.md)
+2. [Створення вебсторінки улюбленого твору](/Homeworks/Homework_2.md)
+
+## ⚒ Інструменти
+
+Для роботи з вебсторінками в рамках курсу можна використовувати такі інструменти:
+
+1. [Visual Studio Code](https://code.visualstudio.com/)
+2. [CodePen](https://codepen.io/trending)
