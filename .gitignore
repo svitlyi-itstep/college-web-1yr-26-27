@@ -1,0 +1,28 @@
+# ===== Claude Code (local only, must never reach the repository) =====
+CLAUDE.md
+CLAUDE.local.md
+**/CLAUDE.md
+**/CLAUDE.local.md
+.claude/
+**/.claude/
+.mcp.json
+
+# ===== OS =====
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ===== Editors / IDE =====
+.vscode/
+.idea/
+.vs/
+*.swp
+*~
+
+# ===== Web (code examples) =====
+node_modules/
+
+# ===== Office temp files =====
+~$*

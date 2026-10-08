@@ -17,16 +17,17 @@
 
 Підібрати кольори для тексту (різні для головного заголовка, вторинних заголовків та основного тексту). Як фон сторінки використовувати зображення (зафіксувати за допомогою `background-attachment: fixed;` ). Для всього тексту зробити окреме одноколірне напівпрозоре тло.
 
-### Приклад сторінки:
-![example 1](images/hw2_i1.png)
-![example 2](images/hw2_i2.png)
+---
 
-Приклад у CodePen: https://codepen.io/editor/fmudqsyk-the-sans/pen/01a0d79b-5e89-7945-bb03-1a6e53160d4a
+### Приклад виконання
+
+![Приклад сторінки — верхня частина](images/hw2_i1.png)
+![Приклад сторінки — нижня частина](images/hw2_i2.png)
+
+Приклад у CodePen: [LA CASA de PAPEL](https://codepen.io/editor/fmudqsyk-the-sans/pen/01a0d79b-5e89-7945-bb03-1a6e53160d4a) (якщо не відкривається — код нижче).
 
 <details>
-<summary>Код сторінки (якщо не грузить CodePen)</summary>
-
-### `index.html`
+<summary><b>📄 index.html</b></summary>
 
 ```html
 <!DOCTYPE html>
@@ -106,7 +107,10 @@
 </html>
 ```
 
-### `style.css`
+</details>
+
+<details>
+<summary><b>📄 style.css</b></summary>
 
 ```css
 body {
@@ -188,6 +192,8 @@ b {
 
 ---
 
-У MyStat потрібно завантажити код сторінок та скриншоти їх вигляду у браузері або посилання на проєкт у [CodePen](https://codepen.io/).
+<p align="center">
+    У MyStat потрібно завантажити код сторінок та скриншоти їх вигляду у браузері або посилання на проєкт у <a href="https://codepen.io/">CodePen</a>.
+</p>
 
 ---
