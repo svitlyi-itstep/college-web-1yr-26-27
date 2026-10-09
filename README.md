@@ -10,10 +10,18 @@
 
 ## [📃 Уроки](/Lessons/)
 1. [Вступ до веб-технологій](/Lessons/1_Intro_Web.md)
+2. [Середовище розробки: Visual Studio Code і CodePen](/Lessons/2_Dev_Tools.md)
+3. [Основи HTML: структура документа, заголовки, абзаци](/Lessons/3_HTML_Basics.md)
+4. [Форматування тексту; блокові та рядкові елементи](/Lessons/4_Text_Formatting.md)
+5. [Основи CSS: підключення стилів, селектори тегів, класи](/Lessons/5_CSS_Basics.md)
+6. [Зображення на сторінці](/Lessons/6_Images.md)
+7. [Списки](/Lessons/7_Lists.md)
+8. [Посилання; багатосторінковий сайт](/Lessons/8_Links.md)
 
 ## [🎯 Самостійні завдання](/Homeworks/)
 1. [Форматування тексту за допомогою HTML та CSS](/Homeworks/Homework_1.md)
 2. [Створення вебсторінки улюбленого твору](/Homeworks/Homework_2.md)
+3. [Оформлення списків за допомогою CSS](/Homeworks/Homework_3.md)
 
 ## ⚒ Інструменти
 
