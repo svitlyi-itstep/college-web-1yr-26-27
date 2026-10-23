@@ -22,6 +22,7 @@
 1. [Форматування тексту за допомогою HTML та CSS](/Homeworks/Homework_1.md)
 2. [Створення вебсторінки улюбленого твору](/Homeworks/Homework_2.md)
 3. [Оформлення списків за допомогою CSS](/Homeworks/Homework_3.md)
+4. [Створення багатосторінкового сайту](/Homeworks/Homework_4.md)
 
 ## ⚒ Інструменти
 
